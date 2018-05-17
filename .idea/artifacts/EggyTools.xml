@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EggyTools">
+    <output-path>$USER_HOME$/MinecraftServer/plugins</output-path>
+    <root id="archive" name="EggyTools.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="module-output" name="EggyTools" />
+    </root>
+  </artifact>
+</component>

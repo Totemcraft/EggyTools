@@ -32,7 +32,7 @@ public class EggyTools extends JavaPlugin implements Listener {
     @Override
     public void onEnable(){
         Bukkit.getServer().getPluginManager().registerEvents(this,this);
-        String msg = "测试语句666";
+        String msg = "「EggyTools已加载」";
         this.getLogger().info(msg);
 
 
@@ -63,7 +63,7 @@ public class EggyTools extends JavaPlugin implements Listener {
                 sender.sendMessage(ChatColor.RED+"你啥都没选中");
                 return true;
             }
-            main.
+
 
 
         }
